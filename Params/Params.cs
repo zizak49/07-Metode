@@ -5,7 +5,7 @@ namespace Vsite.CSharp
 
     public class Params
     {
-        // TODO: Napisati implementaciju metode tako da vrati zbroj svih proslijeđenih argumenata
+        // Napisati implementaciju metode tako da vrati zbroj svih proslijeđenih argumenata
         public static double Zbroji(params double[] pribrojnici)
         {
             double zbroj= 0.0;
